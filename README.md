@@ -2,8 +2,8 @@
 <h3 align="center">Aspiring Data Analyst</h3>
 
 - 🌱 I’m currently learning **python, SQL, Excel, Tableau**
-
-- 📫 How to reach me **kate.lashko14@gmail.com**
+- 📊 Here's my Tableau profile: **https://public.tableau.com/app/profile/sue.morris7780**
+- ✉️ How to reach me **kate.lashko14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

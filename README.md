@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kate</h1>
+<h1 align="center">Hey there 👋, I'm Kate</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
 
 - 🌱 I’m currently learning **python, SQL, Excel, Tableau**

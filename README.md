@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Kate</h1>
-<h3 align="center">Aspiring Data Analyst</h3>
+<h3 align="center">An aspiring Data Analyst</h3>
 
 - 🌱 I’m currently learning **python, SQL, Excel, Tableau**
 - 📊 Here's my Tableau profile: **https://public.tableau.com/app/profile/sue.morris7780**

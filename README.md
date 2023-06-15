@@ -1,7 +1,5 @@
-[![MasterHead](https://images.unsplash.com/photo-1614851099175-e5b30eb6f696?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJhbm5lcnxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80)]
 <h1 align="center">Hi 👋, I'm Kate</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
-(img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d354d11e28ba37b767f933_Data%20points%20(1).gif") 
 
 - 🌱 I’m currently learning **python, SQL, Excel, Tableau**
 
